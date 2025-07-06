@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Nike SB Dunk Low Pro",
+      "category": "Dunk Low",
+      "price": 99.99,
+      "image": "/src/assets/Nike-SB-Dunk-Low-Pro.jpg",
+      "description": "Classic skateboarding shoe with enhanced cushioning"
+    },
+    {
+      "id": "2",
+      "name": "Nike SB Dunk High Pro",
+      "category": "Dunk High",
+      "price": 109.99,
+      "image": "/src/assets/Nike-SB-Dunk-High-Pro.jpg",
+      "description": "High-top version of the iconic skate shoe"
+    },
+    {
+      "id": "3",
+      "name": "Nike SB Dunk Mid Pro",
+      "category": "Dunk Mid",
+      "price": 104.99,
+      "image": "/src/assets/Nike-SB-Dunk-Mid-Pro.jpg",
+      "description": "Mid-top design for ankle support"
+    },
+    {
+      "id": "4",
+      "name": "Nike SB Blazer Mid Pro",
+      "category": "Blazer",
+      "price": 89.99,
+      "image": "/src/assets/Nike-SB-Blazer-Mid.jpg",
+      "description": "Vintage basketball-inspired skate shoe"
+    },
+    {
+      "id": "5",
+      "name": "Nike SB Janoski",
+      "category": "Janoski",
+      "price": 79.99,
+      "image": "/src/assets/Nike-SB-Janoski.jpg",
+      "description": "Minimalist design by Paul Rodriguez"
+    }
+  ]
+} 
